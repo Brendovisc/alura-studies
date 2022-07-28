@@ -5,6 +5,9 @@ import App from './pages/App';
 
 ReactDOM.render(
   <React.StrictMode>
+    
+    Teste 1
+    
     <App />
   </React.StrictMode>,
   document.getElementById('root')
