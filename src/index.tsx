@@ -6,7 +6,7 @@ import App from './pages/App';
 ReactDOM.render(
   <React.StrictMode>
     
-    Teste 1
+    Teste 1 - A
     
     <App />
   </React.StrictMode>,
